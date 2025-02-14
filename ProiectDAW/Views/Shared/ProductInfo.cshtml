@@ -1,0 +1,28 @@
+﻿@model ProiectDAW.Models.Product
+
+<div class="card-body">
+
+
+    <img src="@Model.ImageUrl" class="img-fluid rounded-3 align-content-center" alt="Imagine produs" height ="300" width="300" />
+    @*
+    <img src="@Model.ImageUrl" alt="Product Image" style="width: 100%; height: 450px; object-fit: cover" />
+    *@
+
+    <h3 class="card-title">@Model.Title</h3>
+
+    @*<div class="card-text">@Html.Raw(Model.Description)</div>*@
+    @*<div class="card-text">@Model.Price</div>*@
+
+    <div class="d-flex justify-content-between flex-row mt-5">
+
+        <div><i class="bi bi-globe"></i> @Model.Category.CategoryName</div>
+
+        <div><i class="bi bi-person"></i> @Model.User.UserName</div>
+    </div>
+    <br />
+
+    <h5 class="d-flex justify-content-center">@Model.Price lei</h5>
+
+
+
+</div>

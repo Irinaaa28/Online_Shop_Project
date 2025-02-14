@@ -1,0 +1,127 @@
+﻿    @if (ViewBag.Message != null)
+{
+    <div class="alert-success p-3 rounded-3 text-center mb-5 @ViewBag.Alert">
+        @ViewBag.Message
+    </div>
+}
+@*
+@if (ViewBag.FirstProduct != null)
+{
+    
+<div class="row">
+    <div class="col-12">
+        <div class="bg-light rounded-3 p-5 mb-4">
+            <div class="row">
+                <div class="col-md-8">
+                    <h1 class="font-roboto display-5 fw-bold">@Html.Raw(ViewBag.FirstProduct.Title)</h1>
+                    <div class="font-montserrat mb-3 truncate">@Html.Raw(ViewBag.FirstProduct.Description)</div>
+                    <a href="/Products/Show/@ViewBag.FirstProduct.Id" class="btn btn-outline-success">Vezi produsul</a>
+                    <input type="hidden" value="@ViewBag.FirstProduct.Id" />
+                    <a asp-controller="ShoppingCarts" asp-action="AddToCart" asp-route-id="@ViewBag.FirstProduct.Id" class="btn btn-primary">Adauga in cos</a>
+                </div>
+                <div class="col-md-4">
+                    <img src="https://icon-library.com/images/newspaper-png-icon/newspaper-png-icon-15.jpg" class="img-fluid align-items-center justify-Description-center" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}
+
+else
+{
+    <div class="alert alert-danger">Nu exista produse in baza de date</div>
+}
+
+
+
+@if (ViewBag.Products != null)
+{
+    
+<div class="row mb-4">
+    @foreach (var product in ViewBag.Products)
+    {
+        if (product.IsApproved == true)
+        {
+            
+        <div class="col-6 row-style">
+            <div class="card">
+                <div class="card-title p-3 text-center bg-dark text-white">
+                    <h4>@Html.Raw(product.Title)</h4>
+                </div>
+
+                <div class="card-body">
+                    <div class="font-montserrat truncate">@Html.Raw(product.Description)</div>
+                </div>
+                <div class="card-footer">
+                    <a class="btn btn-outline-success" href="/Products/Show/@product.Id">Vezi produsul</a>
+                        <input type="hidden" value="@product.Id" />
+                        <a asp-controller="ShoppingCarts" asp-action="AddToCart" asp-route-id="@product.Id" class="btn btn-primary">Adauga in cos</a>
+                </div>
+                
+            </div>
+        </div>
+        }
+    }
+</div>
+
+} *@
+@{
+    ViewBag.Title = "Bun venit la Magazinul online de frumusete!";
+}
+
+<div class="container mt-5">
+    <!-- Banner principal -->
+    <div class="jumbotron text-center bg-light p-5 rounded">
+        <h1 class="display-4">Bun venit la <span class="text-primary color-#a11b62">Glow Boutique</span>!</h1>
+        <p class="lead">Descopera universul nostru dedicat frumusetii si ingrijirii personale. Fiecare produs a fost ales cu grija pentru a te ajuta sa stralucesti in fiecare zi.</p>
+        <hr class="my-4">
+        <p>
+            Inspiram frumusetea naturala prin produse de calitate superioara, adaptate pentru tine.
+        </p>
+        <a class="btn btn-primary btn-lg" href="@Url.Action("Index", "Products")" role="button">Vezi Produsele</a>
+    </div>
+
+    <!-- Secțiunea despre magazin -->
+        @*<div class="col-md-6">
+    <div class="row my-5">
+            <img src="/images/about-us.jpg" class="img-fluid rounded shadow" alt="Despre noi">
+        </div>
+        <div class="col-md-6 d-flex flex-column justify-content-center">
+            <h2 class="text-primary">Despre Glow Boutique</h2>
+            <p>
+                Glow Boutique este magazinul online dedicat frumusetii tale. Oferim o gama variata de produse: de la machiaj, produse pentru ingrijirea pielii, pana la solutii personalizate pentru parul tau. Toate produsele noastre sunt atent selectionate pentru a garanta calitatea si eficienta.
+            </p>
+            <p>
+                Prioritatea noastra este sa-ti oferim o experienta unica si produse care sa te inspire sa te simti increzatoare.
+            </p>
+        </div>
+    </div>
+        *@
+
+    
+    <!-- Testimoniale -->
+    <h2 class="text-center my-5">Ce spun clientii nostri</h2>
+    <div class="row text-center">
+        <div class="col-md-4 mb-4">
+            <blockquote class="blockquote">
+                <p>"Produse incredibile! Pielea mea nu a aratat niciodata atat de bine!"</p>
+                <footer class="blockquote-footer">Ana, București</footer>
+            </blockquote>
+        </div>
+        <div class="col-md-4 mb-4">
+            <blockquote class="blockquote">
+                <p>"Recomand cu caldura! Comanda mea a ajuns rapid si totul a fost excelent."</p>
+                <footer class="blockquote-footer">Ioana, Cluj</footer>
+            </blockquote>
+        </div>
+        <div class="col-md-4 mb-4">
+            <blockquote class="blockquote">
+                <p>"Genele false sunt superbe, iar machiajul rezista toată ziua. Perfect pentru mine!"</p>
+                <footer class="blockquote-footer">Maria, Timișoara</footer>
+            </blockquote>
+        </div>
+    </div>
+
+    
+</div>

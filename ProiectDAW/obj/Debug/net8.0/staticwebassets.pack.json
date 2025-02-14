@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProiectDAW.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\css\\starrating.css",
+      "PackagePath": "staticwebassets\\css\\starrating.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\Star_rating_1_of_5.png",
+      "PackagePath": "staticwebassets\\images\\Star_rating_1_of_5.png"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\fundalflori.jpg",
+      "PackagePath": "staticwebassets\\images\\fundalflori.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\fundalflori.webp",
+      "PackagePath": "staticwebassets\\images\\fundalflori.webp"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\1002.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\1003.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\1004.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\1005.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\25.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\26.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\29.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\30.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\products\\32.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\whitestar.png",
+      "PackagePath": "staticwebassets\\images\\whitestar.png"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\yellowstar.jpg",
+      "PackagePath": "staticwebassets\\images\\yellowstar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\images\\yellowstar.png",
+      "PackagePath": "staticwebassets\\images\\yellowstar.png"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\js\\Summernote.js",
+      "PackagePath": "staticwebassets\\js\\Summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\coman\\Facultate\\Anul 2\\Semestrul 1\\ASP.NET si C#\\Proiect Nico\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProiectDAW.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProiectDAW.props",
+      "PackagePath": "build\\ProiectDAW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProiectDAW.props",
+      "PackagePath": "buildMultiTargeting\\ProiectDAW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProiectDAW.props",
+      "PackagePath": "buildTransitive\\ProiectDAW.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
