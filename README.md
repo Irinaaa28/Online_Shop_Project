@@ -18,3 +18,6 @@ This application features a user-friendly interface and a responsive design for 
 * adding a reviewing system which consists of comments and rating stars from 1 to 5
 * creating a shopping cart system where every user can add products, modify their quantities and complete purchases, every product's stock being automatically decreased after every purchase it was involved in
 
+## More
+I would also like to share the fact that I used Trello for task management and the project was realised using Agile Methodology.
+
