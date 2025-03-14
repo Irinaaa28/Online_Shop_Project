@@ -1,4 +1,4 @@
-# WAD Project: Online Shop
+# Online Shop
 ## About 
 This project is a web-based application designed to simulate an online shop where every user has different attributes depending on their roles. For instance:
 * a user can add products to cart, complete purchases and add reviews to products
